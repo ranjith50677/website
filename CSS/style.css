@@ -196,6 +196,17 @@ section {
             border-radius: 10px;
             transition: 1s;
         }
+        .circle:hover  .content{
+            position: absolute;
+            top: 10px;
+            right: 108px;
+            left: 259px;
+            width: 400px;
+            opacity: 1;
+            transition: 1s;
+            font-size: 10px;
+            direction: flex;
+        }
      
  }
  /* skill section*/
